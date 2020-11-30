@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wyhusky.github.io/tech/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/tech/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/authors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/about/"
+                />
+  </url>
+  
+</urlset>
