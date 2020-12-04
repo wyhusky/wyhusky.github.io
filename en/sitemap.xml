@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wyhusky.github.io/en/tech/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://wyhusky.github.io/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wyhusky.github.io/en/tech/"
-                />
-  </url>
-  
-  <url>
     <loc>https://wyhusky.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -46,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://wyhusky.github.io/en/tech/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/tech/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wyhusky.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +55,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wyhusky.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/contact/"
                 />
   </url>
   
