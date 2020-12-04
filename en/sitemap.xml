@@ -73,6 +73,20 @@
   </url>
   
   <url>
+    <loc>https://wyhusky.github.io/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/projects/"
+                />
+  </url>
+  
+  <url>
     <loc>https://wyhusky.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -111,20 +125,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://wyhusky.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://wyhusky.github.io/en/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://wyhusky.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://wyhusky.github.io/en/projects/"
                 />
   </url>
   
