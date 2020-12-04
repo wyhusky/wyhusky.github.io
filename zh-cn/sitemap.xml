@@ -101,4 +101,22 @@
                 />
   </url>
   
+  <url>
+    <loc>https://wyhusky.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wyhusky.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://wyhusky.github.io/en/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://wyhusky.github.io/projects/"
+                />
+  </url>
+  
 </urlset>
