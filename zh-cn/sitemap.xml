@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wyhusky.github.io/tech/first/</loc>
-  </url>
-  
-  <url>
     <loc>https://wyhusky.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
